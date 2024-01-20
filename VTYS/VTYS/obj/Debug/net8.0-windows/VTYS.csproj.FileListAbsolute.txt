@@ -1,0 +1,70 @@
+C:\Users\lockl\source\repos\VTYS\VTYS\bin\Debug\net8.0-windows\VTYS.exe
+C:\Users\lockl\source\repos\VTYS\VTYS\bin\Debug\net8.0-windows\VTYS.deps.json
+C:\Users\lockl\source\repos\VTYS\VTYS\bin\Debug\net8.0-windows\VTYS.runtimeconfig.json
+C:\Users\lockl\source\repos\VTYS\VTYS\bin\Debug\net8.0-windows\VTYS.dll
+C:\Users\lockl\source\repos\VTYS\VTYS\bin\Debug\net8.0-windows\VTYS.pdb
+C:\Users\lockl\source\repos\VTYS\VTYS\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\lockl\source\repos\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.csproj.AssemblyReference.cache
+C:\Users\lockl\source\repos\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.Form1.resources
+C:\Users\lockl\source\repos\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.Properties.Resources.resources
+C:\Users\lockl\source\repos\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.csproj.GenerateResource.cache
+C:\Users\lockl\source\repos\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lockl\source\repos\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.AssemblyInfoInputs.cache
+C:\Users\lockl\source\repos\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.AssemblyInfo.cs
+C:\Users\lockl\source\repos\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.csproj.CoreCompileInputs.cache
+C:\Users\lockl\source\repos\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.csproj.CopyComplete
+C:\Users\lockl\source\repos\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.dll
+C:\Users\lockl\source\repos\VTYS\VTYS\obj\Debug\net8.0-windows\refint\VTYS.dll
+C:\Users\lockl\source\repos\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.pdb
+C:\Users\lockl\source\repos\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.genruntimeconfig.cache
+C:\Users\lockl\source\repos\VTYS\VTYS\obj\Debug\net8.0-windows\ref\VTYS.dll
+C:\Users\lockl\source\repos\VTYS\VTYS\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\lockl\source\repos\VTYS\VTYS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lockl\source\repos\VTYS\VTYS\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lockl\source\repos\VTYS\VTYS\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lockl\source\repos\VTYS\VTYS\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lockl\source\repos\VTYS\VTYS\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lockl\source\repos\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.Form2.resources
+C:\Users\lockl\source\repos\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.Form3.resources
+C:\Users\lockl\source\repos\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.Form4.resources
+C:\Users\lockl\source\repos\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.Form5.resources
+C:\Users\lockl\source\repos\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.Form6.resources
+C:\Users\lockl\source\repos\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.Form7.resources
+C:\Users\lockl\source\repos\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.Form8.resources
+C:\Users\lockl\source\repos\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.Form9.resources
+C:\Users\lockl\source\repos\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.Form10.resources
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\bin\Debug\net8.0-windows\VTYS.exe
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\bin\Debug\net8.0-windows\VTYS.deps.json
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\bin\Debug\net8.0-windows\VTYS.runtimeconfig.json
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\bin\Debug\net8.0-windows\VTYS.dll
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\bin\Debug\net8.0-windows\VTYS.pdb
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.csproj.AssemblyReference.cache
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.Form1.resources
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.Form10.resources
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.Form2.resources
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.Form3.resources
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.Form4.resources
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.Form5.resources
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.Form6.resources
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.Form7.resources
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.Form8.resources
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.Form9.resources
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.Properties.Resources.resources
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.csproj.GenerateResource.cache
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.AssemblyInfoInputs.cache
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.AssemblyInfo.cs
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.csproj.CoreCompileInputs.cache
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.csproj.CopyComplete
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.dll
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\obj\Debug\net8.0-windows\refint\VTYS.dll
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.pdb
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\obj\Debug\net8.0-windows\VTYS.genruntimeconfig.cache
+C:\Users\lockl\OneDrive\Masaüstü\Yeni klasör\VTYS\VTYS\obj\Debug\net8.0-windows\ref\VTYS.dll
